@@ -1,0 +1,12 @@
+#### character-id-1.graphql
+```graphql
+query {
+  character(id: 1) {
+    id
+    name
+    status
+    species
+    type
+    gender
+  }
+}

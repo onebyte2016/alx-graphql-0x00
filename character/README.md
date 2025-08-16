@@ -32,3 +32,17 @@ query {
     gender
   }
 }
+
+# GraphQL Characters Query
+
+This project contains queries to fetch characters from the Rick and Morty GraphQL API using pagination.
+
+## Files
+- `characters-page-1.graphql`: Query for page 1
+- `characters-page-1-output.json`: JSON output for page 1
+- `characters-page-2.graphql`: Query for page 2
+- `characters-page-2-output.json`: JSON output for page 2
+- `characters-page-3.graphql`: Query for page 3
+- `characters-page-3-output.json`: JSON output for page 3
+- `characters-page-4.graphql`: Query for page 4
+- `characters-page-4-output.json`: JSON output for page 4
